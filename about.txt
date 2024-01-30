@@ -1,0 +1,18 @@
+<div class="team-members">
+                    <div class="team-member">
+                        <img alt="Team Member 1" class="team-member-image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAMRsIQNMNarTddve4k7WvjvivWu8Uv6Rw5lpXNAipyA58ZX2QQoihS-voHeYgdR2khOGDKnaMP1t_kRiOLO0axEXZDGkPF1lhkzw-pC5C5ajiYByeqePlT92pp8_IiKtGic22ogZRQnvb3Stxw2oYlB1iFOoeRSNy2E7HF1w05_P9uxVH_zcg0JyVH6XG/s320/20240127_081109.png">
+                        <div class="team-member-info">
+                            <h3>PR CHAPAGAIN</h3>
+                            <p>Founder &amp; CEO</p>
+                            <p>pharshucg@gmail.com</p>
+                            <a href="https://www.prchapagain.com.np" rel="noopener noreferrer" target="_blank">
+                                <i class="fas fa-globe"></i> Website
+                            </a>
+                            <div class="social-icons">
+                                <a href="https://www.facebook.com/prchapagain" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/prchapagain" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                        </div>
